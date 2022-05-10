@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meteorologia</title>
+    <link rel="stylesheet" href="/assets/css/style.css" />
+</head>
+<body>
+    <h1>Meteorologia</h1>
+
+    <form class="busca">
+        <input type="search" id="searchInput" />
+        <button>Buscar</button>
+    </form>
+
+    <div class="resultado">
+        <div class="titulo">--</div>
+
+        <div class="info">
+            <div class="temp">
+                <div class="tempTitulo">Temperatura</div>
+                <div class="tempInfo">-- <sup>ºC</sup></div>
+                <img src="http://openweathermap.org/img/wn/10d@2x.png" />
+                <div class="tempDesc">Descrição</div>
+                
+            </div>
+            <div class="vento">
+                <div class="ventoTitulo">Vento</div>
+                <div class="ventoInfo">-- <span>km/h</span></div>
+                <div class="ventoArea">
+                    <div class="ventoPonto" style="transform: rotate(0deg)"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="aviso"></div>
+
+    <footer>Created by João Fernandes at B7web "Desafio 7 projetos em 7 dias."</footer>
+
+    <script src="/assets/js/script.js"></script>
+</body>
+</html>
