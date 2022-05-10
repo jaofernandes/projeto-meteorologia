@@ -43,10 +43,9 @@
 Projeto construído para praticar o consumo de API em js puro pelo curso da B7web (7 projetos em 7 dias) o projeto consiste em um site metereologico com busca em tempo real.
 ### Tecnologias usadas
 
-* HTML
-* CSS
-* JAVASCRIPT
-* OpenWeather API
+* Html
+* Css
+* Javascript e OpenWeather API
 
 <p align="right">(<a href="#top">Volte para o topo.</a>)</p>
 
