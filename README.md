@@ -46,6 +46,7 @@ Projeto construído para praticar o consumo de API em js puro pelo curso da B7we
 * HTML
 * CSS
 * JAVASCRIPT
+* OpenWeather API
 
 <p align="right">(<a href="#top">Volte para o topo.</a>)</p>
 
